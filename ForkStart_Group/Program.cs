@@ -22,9 +22,10 @@ namespace ForkStart_Group
             // Gleb's content goes here
             Debug.WriteLine("This is Gleb:)");
 
-      // team member B's content goes here
-
-      // team member C's content goes here
+            // team member B's content goes here
+            Console.WriteLine("Hello from Moez");
+            // Richmond's content goes here
+            Console.WriteLine("Richmond's battery died!");
 
     }
   }
