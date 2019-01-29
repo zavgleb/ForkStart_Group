@@ -19,7 +19,8 @@ namespace ForkStart_Group
     {
       Debug.WriteLine("Hello World from the instructor!");
 
-      // team member A's content goes here
+            // Gleb's content goes here
+            Debug.WriteLine("This is Gleb:)");
 
       // team member B's content goes here
 
