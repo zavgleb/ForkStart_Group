@@ -22,8 +22,8 @@ namespace ForkStart_Group
             // Gleb's content goes here
             Debug.WriteLine("This is Gleb:)");
 
-      // team member B's content goes here
-
+            // team member B's content goes here
+            Console.WriteLine("Hello From Moez");
       // team member C's content goes here
 
     }
